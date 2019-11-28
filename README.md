@@ -1,5 +1,7 @@
 # csl-inflect
 
+> This repository is superceded by https://github.com/sanskrit-lexicon/csl-inflect
+
 ## continue MWinflect
 The csl-inflect repository continues work from MWinflect repository.
 
